@@ -26,3 +26,24 @@ Play as X or O, check for winners, and reset to start again — clean, responsiv
 ```bash
 npm install
 npm run dev
+```
+
+---
+
+## 🤝 Contributing
+
+This project is open to contributions. Feel free to fork the repo and create a pull request if you'd like to improve it.
+
+---
+
+## 🧑‍💻 Author
+
+**Faraz Khan**  
+Freelance Web Developer  
+[Email](mailto:f.skipper14@gmail.com)
+
+---
+
+## 🪪 License
+
+This project is open-source and available under the [MIT License](LICENSE).
